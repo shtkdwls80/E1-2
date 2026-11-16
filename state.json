@@ -81,7 +81,7 @@
             "answer": 4
         },
         {
-            "question": "고양이가 좋아하는 것",
+            "question": "고양이가 싫어하는 것",
             "choices": [
                 "참치",
                 "소고기",
@@ -92,7 +92,7 @@
         }
     ],
     "best_score": {
-        "correct": 5,
-        "total": 6
+        "correct": 9,
+        "total": 9
     }
 }
